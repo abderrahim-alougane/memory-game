@@ -1,0 +1,34 @@
+.bg-gry{
+
+    background-color: #dfe7ec;
+
+}
+.bg-darck1{
+
+    background-color: #304859;
+}
+.sc1 .container{
+    max-width: 800px !important;
+}
+
+.d-inline-block{
+    cursor: pointer;
+}
+
+
+
+
+.circle-hover:hover{
+    background-color: #6395b8;
+    transform: scale(1.05);
+}
+.behide{
+    /* background-color: black  brown  blue red orange maroon royalblue pink  aqua; */
+    background-color: black;
+}
+
+.cursor-none{
+
+    pointer-events: none;
+
+}
